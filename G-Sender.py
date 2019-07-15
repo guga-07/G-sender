@@ -1,6 +1,6 @@
 from colorama import *
 import pyfiglet
-print(Fore.Green + "Codded By Guga Namgaladze")
+print(Fore.GREEN + "Codded By Guga Namgaladze")
 print (Fore.GREEN + "=================================================================")
 a = pyfiglet.figlet_format("Gmail-Sender")
 print (a)
