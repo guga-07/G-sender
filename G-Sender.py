@@ -1,6 +1,6 @@
 from colorama import *
 import pyfiglet
-print(Fore.GREEN + "Codded By Cheater")
+print(Fore.GREEN + "Codded By Cheat3r")
 print (Fore.GREEN + "=================================================================")
 a = pyfiglet.figlet_format("Gmail-Sender")
 print (a)
