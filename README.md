@@ -1,9 +1,10 @@
 # G-sender
-This Program helping for sending messages on gmail With Terminal
+ავტორი: Cheater
 
-# pip3 install pyfiglet
-# pip3 install colorama
-
-and Run Program
-
+#ინსტალაცია 
+pip3 install pyfiglet
+pip3 install colorama
+cd G-sender
+python3 G-Sender.py
+პროგრამის საშუალებით შეგიძლიათ ტერმინალიდან გაგზავნოთ მესიჯები Gmail-ზე
 
