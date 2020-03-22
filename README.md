@@ -1,7 +1,7 @@
 # G-sender
-ავტორი: Cheater
+ავტორი: Cheat3r
 
-#ინსტალაცია 
+# ინსტალაცია 
 pip3 install pyfiglet
 pip3 install colorama
 cd G-sender
