@@ -1,13 +1,7 @@
-# G-sender 
-ავტორი: Cheat3r
+# =================================G-sender=================================
+# $ პროგრამა დაგეხმარებათ ტერმინალიდან Gmail-ზე ფაილის გასაგზავნად $
+# ინსტალაცია:
+#
 
-# ინსტალაცია 
-pip3 install pyfiglet
-
-pip3 install colorama
-
-cd G-sender
-
-python3 G-Sender.py
 
 
