@@ -12,7 +12,7 @@ try:
  ╚═════╝       ╚══════╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
                                                                  
 """)
-    print(დაეთანხმეთ პროგრამის მოთხოვნილებებს")
+    print("დაეთანხმეთ პროგრამის მოთხოვნილებებს")
     print("1) გადადით მოცემულ საიტზე: https://myaccount.google.com/lesssecureapps")
     print("2) დაეთანხმეთ Permission secure app access-ს ")
     import smtplib
