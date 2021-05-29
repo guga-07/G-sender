@@ -2,7 +2,7 @@ from colorama import *
 from colorama import init
 try:
     init()
-    print(Fore.GREEN + "Codded By Lord-Unknown")
+    print(Fore.GREEN + "პროგრამა დაწერილია Lord-Unknown-ის მიერ")
     print(Fore.GREEN + """ 
  ██████╗       ███████╗███████╗███╗   ██╗██████╗ ███████╗██████╗ 
 ██╔════╝       ██╔════╝██╔════╝████╗  ██║██╔══██╗██╔════╝██╔══██╗
@@ -12,9 +12,9 @@ try:
  ╚═════╝       ╚══════╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
                                                                  
 """)
-    print("Allow Program Permissions")
-    print ("1) Go to the this site https://myaccount.google.com/lesssecureapps")
-    print("2) Give Permission secure app access ")
+    print(დაეთანხმეთ პროგრამის მოთხოვნილებებს")
+    print("1) გადადით მოცემულ საიტზე: https://myaccount.google.com/lesssecureapps")
+    print("2) დაეთანხმეთ Permission secure app access-ს ")
     import smtplib
     from getpass import getpass
     username = input("Your Gmail: ")
@@ -27,8 +27,8 @@ try:
     server.login(username, password)
     server.sendmail(username,c, msg)
     server.quit()
-    print("Sent Succsesfully")
+    print("მესიჯი წარმატებით გაიგზავნა")
 except:
-    print("Not Sent")
+    print("სამწუხაროდ დაფიქსირდა შეცდომა გთხოვთ დარწმუნდეთ რომ ყოველი პარამეტრი შეგყავთ სწორად :) წარმატებები")
 
 
