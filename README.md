@@ -6,4 +6,4 @@
 # pip3 install -r requirements.txt
 # python3 G-Sender.py
 
-![Screenshot](Capture.png)
+![Screenshot](Capture.PNG)
