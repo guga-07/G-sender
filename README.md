@@ -6,5 +6,5 @@
 # pip3 install -r requirements.txt
 # python3 G-Sender.py
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/img.jpg?raw=true "Capture.PNG")
 
