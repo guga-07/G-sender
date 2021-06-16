@@ -6,4 +6,4 @@ if choose == "1":
 if choose == "2":
   os.system("sudo pacman -Sy  pip")
   os.system("pip install colorama")
-  print("now you can run program :) ")
+print("now you can run program :) ")
