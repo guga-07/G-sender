@@ -36,14 +36,14 @@ def program():
 program()
 
 def reboot():
-    restart = input("restart program? type yes/no: ")
-
-    if restart == "yes":
-        program()
-    elif restart == "no":
-        exit()
-    else:
-        reboot()
+    while True:
+        restart = input("restart program? type yes/no: ")
+        if restart == "yes":
+            program()
+        elif restart == "no":
+            exit()
+        else:
+            reboot()
 reboot()
 
 
