@@ -3,7 +3,6 @@
 # ინსტალაცია:
 # git clone https://github.com/guga-07/G-sender.git
 # cd G-sender
-# pip3 install -r requirements.txt
 # chmod +x install.sh
 # ./install.sh
 
